@@ -17,5 +17,5 @@ Place the .exe in the main icon folder and double-click ;)
 
 ### Download the JAVA [here](https://github.com/a-random-package/PNG2XML3/blob/master/png2xml3.java)
 
-Originally created by [Pkmmte](https://github.com/Pkmmte)
+Originally created by [Pkmmte](https://github.com/Pkmmte) |
 Updated by Alan Wang & Myself
