@@ -11,7 +11,7 @@ and hit enter/return.
 
 ## HOW TO USE THE .EXE FILE
 
-Place the .exe in the main icon folder and double-click ;)
+Place the .exe in the main icon folder and double-click.
 
 ### Download the JAR [here](https://github.com/a-random-package/PNG2XML3/blob/master/png2xml3.jar)
 
