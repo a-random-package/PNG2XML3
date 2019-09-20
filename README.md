@@ -7,6 +7,8 @@ Create your icon category subflders and place the .jar file in the same folder w
 
 `java -jar png2xml3.jar`
 
+and hit enter/return.
+
 ## HOW TO USE THE .EXE FILE
 
 Place the .exe in the main icon folder and double-click ;)
