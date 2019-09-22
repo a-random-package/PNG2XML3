@@ -107,7 +107,7 @@ public class png2xml3 {
 
                     // Starting writing this subfolder's array
                     icon.append("\t<string-array name=\"" + subfolderName + "\">\n");
-                    drawable.append("\t<category title=\"" + subfolderName + "\">\n");
+                    drawable.append("\t<category title=\"" + subfolderName + "\"/>\n");
 
                     // Loop through all the images within this subfolder and assign a value for each
                     // Drawables only need to be written once, so we will not write them here
